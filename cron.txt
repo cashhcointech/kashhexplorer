@@ -1,0 +1,1 @@
+0 * * * * node ~/kashh-explorer/scripts/sync.js index update
